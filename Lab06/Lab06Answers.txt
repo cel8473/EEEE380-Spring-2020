@@ -1,0 +1,7 @@
+Vinput = 0.514V
+Voutput = 0.375V
+
+VinputEnh = 1.175V
+VoutputEnh = 0V
+Yes it has an effect.
+

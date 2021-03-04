@@ -1,0 +1,37 @@
+Part 4A
+Voh=1.2V
+Vol=0V
+Vil=0.55V 
+Vih=0.65V
+Vth=0.6V
+NMH=Voh-Vih=0.55V
+NML=Vil-Vol=0.55V
+
+Part 4B
+Voh=1.2V
+Vol=0V
+Vil=0.596V
+Vih=0.694V
+Vth=0.634V
+NMH=Voh-Vih=0.506V
+NML=Vil-Vol=0.596V
+
+Part5A
+trise=11.597374
+tfall=11.597374
+
+Part5B
+trise=5.7986871
+tfall=11.597374
+
+Part6
+Vdd=1.2V
+Period=100ns
+Average delay=10ns
+Vdd=2V
+Average delay=4ns
+Vdd=1V
+Average delay=15.5ns
+Vdd=1.2V Cext=50pf
+Average delay=30ns
+Cleff= Cext(tnoload)/(tload-tnoload)=50pf*10ns/(30ns-10ns)= 25pf

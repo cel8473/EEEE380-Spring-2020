@@ -1,0 +1,26 @@
+trise = 155.36 - 122.5 = 32.8us
+tfall = 132.1 - 102.8 = 29.3us
+
+Vdd=5
+Vth = 1.763v
+tpw = 143us
+
+Vdd=3
+Vth = 1.246v
+tpw = 177us
+
+Vdd=7
+Vth = 2.262v
+tpw = 129us
+
+Vdd=5 R=6.8k
+Vth = 1.7v
+tpw = 62ns
+
+Vdd=5 R=30k
+Vth = 1.72v
+tpw = 278ns
+
+The pulse width tpw is a little sensitive to Vdd.
+The variation in tpw agree with my expectations because
+tpw has a direct relationship to the resistance.

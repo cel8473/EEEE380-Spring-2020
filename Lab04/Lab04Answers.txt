@@ -1,0 +1,27 @@
+Lab04 Part2:
+No Body Effect:
+Vx=0.783V
+Vy=0.154V
+Vout=0.356V
+
+Body Effect:
+Vx=0.339V
+Vy=0.147V
+Vout=1.835V
+
+Three Input:
+VOL = .48nv
+VOH = 2.499998V 
+VTH = 1.26034778V
+VIH = 2.285V
+VIL = 0.2113V
+
+   A	|   B	|   C   |   Vout   |
+0	  0	  0	  2.5V
+0	  0       1	  2.5V
+0         1       0	  2.5V
+0         1       1       2.5V
+1         0       0       2.5V
+1         0       1	  2.5V
+1         1       0       2.5V
+1         1       1       0.828nv
